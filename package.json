@@ -1,0 +1,15 @@
+{
+  "name": "whatsnotapp",
+  "version": "22.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.20",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
